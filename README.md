@@ -141,3 +141,5 @@ The Scalars subfolder under the Datasets folder contains the copies of standard 
 Saved Models folder contain the saved models as well as the model comparison table(as a .csv file) in their respective subfolders.
 
 Datasets sub folder contain classifier_sets and regressor_sets which have the datasets for each of the random seeds under their respective folders.
+
+Probability_Matrices.zip has the compressed probability matrices for elements 2-6.
